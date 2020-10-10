@@ -1,0 +1,6057 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<items>
+		<item id="1210727">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210519">
+			<vote>no</vote>
+			<canton>gr</canton>
+		</item>
+		<item id="1210866">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1211145">
+			<vote>no</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1210564">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211394">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1210196">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210372">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210796">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1211024">
+			<vote>yes</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1211088">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211079">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210929">
+			<vote/>
+			<canton>bs</canton>
+		</item>
+		<item id="1210997">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210237">
+			<vote>yes</vote>
+			<canton>ju</canton>
+		</item>
+		<item id="1210448">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210236">
+			<vote/>
+			<canton>fr</canton>
+		</item>
+		<item id="1210437">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1210673">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210474">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210253">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210056">
+			<vote>no</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1211468">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1211086">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1211316">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210251">
+			<vote>no</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1210899">
+			<vote/>
+			<canton>sg</canton>
+		</item>
+		<item id="1210696">
+			<vote/>
+			<canton>vs</canton>
+		</item>
+		<item id="1210481">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1210618">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1211427">
+			<vote/>
+			<canton>ge</canton>
+		</item>
+		<item id="1210191">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211382">
+			<vote/>
+			<canton>sg</canton>
+		</item>
+		<item id="1210666">
+			<vote/>
+			<canton>ju</canton>
+		</item>
+		<item id="1210053">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1210193">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210635">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210443">
+			<vote/>
+			<canton>lu</canton>
+		</item>
+		<item id="1210509">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210857">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1210476">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210028">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211068">
+			<vote>yes</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1211378">
+			<vote>no</vote>
+			<canton>ur</canton>
+		</item>
+		<item id="1210968">
+			<vote>no</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1210799">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210219">
+			<vote/>
+			<canton>bl</canton>
+		</item>
+		<item id="1210903">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210150">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211131">
+			<vote/>
+			<canton>sh</canton>
+		</item>
+		<item id="1210546">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210235">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210911">
+			<vote>yes</vote>
+			<canton>sh</canton>
+		</item>
+		<item id="1210791">
+			<vote/>
+			<canton>lu</canton>
+		</item>
+		<item id="1210999">
+			<vote>no</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1210214">
+			<vote>yes</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1210886">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210838">
+			<vote/>
+			<canton>lu</canton>
+		</item>
+		<item id="1210221">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1211183">
+			<vote/>
+			<canton>sg</canton>
+		</item>
+		<item id="1211211">
+			<vote>yes</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1211392">
+			<vote/>
+			<canton>so</canton>
+		</item>
+		<item id="1210954">
+			<vote>no</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1211498">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1211374">
+			<vote>yes</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1210330">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1210740">
+			<vote>no</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1211223">
+			<vote>no</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1211455">
+			<vote/>
+			<canton>vs</canton>
+		</item>
+		<item id="1210842">
+			<vote/>
+			<canton>fr</canton>
+		</item>
+		<item id="1210488">
+			<vote>no</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1211489">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210554">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211449">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211197">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210644">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210697">
+			<vote>yes</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1210030">
+			<vote>no</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1211264">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1211444">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211299">
+			<vote>yes</vote>
+			<canton>bs</canton>
+		</item>
+		<item id="1210256">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211412">
+			<vote>no</vote>
+			<canton>ne</canton>
+		</item>
+		<item id="1210557">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210402">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211411">
+			<vote/>
+			<canton>vs</canton>
+		</item>
+		<item id="1210428">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210482">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1211208">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210408">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1211365">
+			<vote/>
+			<canton>gr</canton>
+		</item>
+		<item id="1211225">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1211118">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1210627">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210552">
+			<vote>no</vote>
+			<canton>bs</canton>
+		</item>
+		<item id="1210152">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211425">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211044">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210349">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210342">
+			<vote>yes</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210844">
+			<vote/>
+			<canton>sg</canton>
+		</item>
+		<item id="1210804">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210646">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1211073">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210473">
+			<vote/>
+			<canton>ag</canton>
+		</item>
+		<item id="1210084">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210591">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210947">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211188">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1211453">
+			<vote>yes</vote>
+			<canton>fr</canton>
+		</item>
+		<item id="1210670">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210293">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210439">
+			<vote/>
+			<canton>lu</canton>
+		</item>
+		<item id="1210424">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210309">
+			<vote>no</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1210274">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210471">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210595">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1210820">
+			<vote/>
+			<canton>vs</canton>
+		</item>
+		<item id="1210652">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210241">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210163">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210158">
+			<vote>no</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1211280">
+			<vote>yes</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210441">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1211116">
+			<vote>yes</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210960">
+			<vote/>
+			<canton>vs</canton>
+		</item>
+		<item id="1210611">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1210072">
+			<vote/>
+			<canton>sg</canton>
+		</item>
+		<item id="1210134">
+			<vote>yes</vote>
+			<canton>gl</canton>
+		</item>
+		<item id="1210631">
+			<vote/>
+			<canton>ge</canton>
+		</item>
+		<item id="1210575">
+			<vote/>
+			<canton>sz</canton>
+		</item>
+		<item id="1210768">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1211040">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211252">
+			<vote>empty</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211232">
+			<vote>no</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1210787">
+			<vote>no</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1211329">
+			<vote>yes</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1210149">
+			<vote/>
+			<canton>fr</canton>
+		</item>
+		<item id="1211011">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210467">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210601">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210753">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1210826">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210227">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211373">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210725">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1211405">
+			<vote/>
+			<canton>fr</canton>
+		</item>
+		<item id="1210865">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210403">
+			<vote>yes</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1210314">
+			<vote>yes</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210270">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210032">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1211340">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210732">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211207">
+			<vote/>
+			<canton>vs</canton>
+		</item>
+		<item id="1211245">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1210959">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210702">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210572">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1211273">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210296">
+			<vote>no</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1210436">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211085">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210807">
+			<vote>no</vote>
+			<canton>gr</canton>
+		</item>
+		<item id="1211128">
+			<vote/>
+			<canton>lu</canton>
+		</item>
+		<item id="1210462">
+			<vote/>
+			<canton>bl</canton>
+		</item>
+		<item id="1211429">
+			<vote>yes</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1210657">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210145">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1211112">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210976">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210752">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210660">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210950">
+			<vote>yes</vote>
+			<canton>sz</canton>
+		</item>
+		<item id="1210264">
+			<vote>no</vote>
+			<canton>bs</canton>
+		</item>
+		<item id="1210754">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1211074">
+			<vote>yes</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1210071">
+			<vote>yes</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1210364">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1210345">
+			<vote/>
+			<canton>ag</canton>
+		</item>
+		<item id="1210289">
+			<vote/>
+			<canton>ge</canton>
+		</item>
+		<item id="1211048">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1210647">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210790">
+			<vote/>
+			<canton>bs</canton>
+		</item>
+		<item id="1210127">
+			<vote/>
+			<canton>vs</canton>
+		</item>
+		<item id="1211055">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210585">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1211070">
+			<vote/>
+			<canton>lu</canton>
+		</item>
+		<item id="1210741">
+			<vote>no</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1210115">
+			<vote>no</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1210459">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210397">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211148">
+			<vote/>
+			<canton>ju</canton>
+		</item>
+		<item id="1210039">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211300">
+			<vote/>
+			<canton>sz</canton>
+		</item>
+		<item id="1210010">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210535">
+			<vote>no</vote>
+			<canton>bs</canton>
+		</item>
+		<item id="1210465">
+			<vote>yes</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1211206">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1210429">
+			<vote/>
+			<canton>ge</canton>
+		</item>
+		<item id="1211321">
+			<vote/>
+			<canton>gr</canton>
+		</item>
+		<item id="1211185">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1211072">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210346">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210878">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1210082">
+			<vote>no</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1210692">
+			<vote/>
+			<canton>ag</canton>
+		</item>
+		<item id="1210713">
+			<vote/>
+			<canton>lu</canton>
+		</item>
+		<item id="1211441">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210900">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1211401">
+			<vote>no</vote>
+			<canton>gr</canton>
+		</item>
+		<item id="1210513">
+			<vote>no</vote>
+			<canton>ar</canton>
+		</item>
+		<item id="1210789">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1210860">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211247">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210368">
+			<vote/>
+			<canton>lu</canton>
+		</item>
+		<item id="1211209">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210654">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1211303">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1210681">
+			<vote>no</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1210567">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210958">
+			<vote>yes</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210992">
+			<vote/>
+			<canton>fr</canton>
+		</item>
+		<item id="1210956">
+			<vote/>
+			<canton>zg</canton>
+		</item>
+		<item id="1210002">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1211320">
+			<vote>yes</vote>
+			<canton>ne</canton>
+		</item>
+		<item id="1210450">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1211317">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210630">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211439">
+			<vote/>
+			<canton>gr</canton>
+		</item>
+		<item id="1211339">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210470">
+			<vote/>
+			<canton>ar</canton>
+		</item>
+		<item id="1210038">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1211355">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210874">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210710">
+			<vote/>
+			<canton>ag</canton>
+		</item>
+		<item id="1210907">
+			<vote>no</vote>
+			<canton>bs</canton>
+		</item>
+		<item id="1210336">
+			<vote/>
+			<canton>sg</canton>
+		</item>
+		<item id="1210565">
+			<vote>no</vote>
+			<canton>sh</canton>
+		</item>
+		<item id="1210250">
+			<vote>yes</vote>
+			<canton>fr</canton>
+		</item>
+		<item id="1211235">
+			<vote>no</vote>
+			<canton>fr</canton>
+		</item>
+		<item id="1211045">
+			<vote>yes</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1210731">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210877">
+			<vote/>
+			<canton>gr</canton>
+		</item>
+		<item id="1210541">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1210847">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210579">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210562">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211361">
+			<vote/>
+			<canton>vs</canton>
+		</item>
+		<item id="1210643">
+			<vote>yes</vote>
+			<canton>ne</canton>
+		</item>
+		<item id="1210843">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211390">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210242">
+			<vote>yes</vote>
+			<canton>zg</canton>
+		</item>
+		<item id="1210271">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210343">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210136">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211189">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1211407">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1211369">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210639">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210831">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211395">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210745">
+			<vote/>
+			<canton>bl</canton>
+		</item>
+		<item id="1210628">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210350">
+			<vote>no</vote>
+			<canton>sz</canton>
+		</item>
+		<item id="1211380">
+			<vote/>
+			<canton>so</canton>
+		</item>
+		<item id="1211360">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210045">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210707">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210249">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1211113">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210980">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1210365">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1211228">
+			<vote>yes</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1210104">
+			<vote>no</vote>
+			<canton>sz</canton>
+		</item>
+		<item id="1210232">
+			<vote/>
+			<canton>fr</canton>
+		</item>
+		<item id="1211461">
+			<vote>no</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1210822">
+			<vote>no</vote>
+			<canton>ju</canton>
+		</item>
+		<item id="1210851">
+			<vote/>
+			<canton>vs</canton>
+		</item>
+		<item id="1210923">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210495">
+			<vote>empty</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210508">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1210380">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210584">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210672">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1210703">
+			<vote>no</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1211115">
+			<vote/>
+			<canton>ne</canton>
+		</item>
+		<item id="1210498">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1211396">
+			<vote/>
+			<canton>ag</canton>
+		</item>
+		<item id="1211050">
+			<vote>no</vote>
+			<canton>ar</canton>
+		</item>
+		<item id="1211430">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1210262">
+			<vote>no</vote>
+			<canton>bs</canton>
+		</item>
+		<item id="1210499">
+			<vote/>
+			<canton>sz</canton>
+		</item>
+		<item id="1211398">
+			<vote>yes</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1210422">
+			<vote/>
+			<canton>ne</canton>
+		</item>
+		<item id="1210920">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211294">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211093">
+			<vote/>
+			<canton>vs</canton>
+		</item>
+		<item id="1210623">
+			<vote/>
+			<canton>ag</canton>
+		</item>
+		<item id="1210347">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1210500">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1211274">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211031">
+			<vote>no</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1211327">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211480">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210704">
+			<vote/>
+			<canton>bl</canton>
+		</item>
+		<item id="1211026">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1210982">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210998">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1210975">
+			<vote>yes</vote>
+			<canton>gr</canton>
+		</item>
+		<item id="1210717">
+			<vote/>
+			<canton>fr</canton>
+		</item>
+		<item id="1211080">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210720">
+			<vote>yes</vote>
+			<canton>gr</canton>
+		</item>
+		<item id="1210492">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1211467">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210503">
+			<vote/>
+			<canton>sg</canton>
+		</item>
+		<item id="1210529">
+			<vote/>
+			<canton>ge</canton>
+		</item>
+		<item id="1210885">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210130">
+			<vote/>
+			<canton>sh</canton>
+		</item>
+		<item id="1210153">
+			<vote>no</vote>
+			<canton>bs</canton>
+		</item>
+		<item id="1210835">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210504">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210477">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211451">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210062">
+			<vote/>
+			<canton>sg</canton>
+		</item>
+		<item id="1210101">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1210642">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210007">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210454">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211492">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1210001">
+			<vote/>
+			<canton>vs</canton>
+		</item>
+		<item id="1210507">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210864">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210307">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1210852">
+			<vote/>
+			<canton>sz</canton>
+		</item>
+		<item id="1211066">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1210432">
+			<vote>yes</vote>
+			<canton>sh</canton>
+		</item>
+		<item id="1210480">
+			<vote/>
+			<canton>so</canton>
+		</item>
+		<item id="1211440">
+			<vote>yes</vote>
+			<canton>fr</canton>
+		</item>
+		<item id="1210766">
+			<vote>empty</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211279">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210065">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1211391">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210800">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210187">
+			<vote>no</vote>
+			<canton>gr</canton>
+		</item>
+		<item id="1211337">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210244">
+			<vote>yes</vote>
+			<canton>bs</canton>
+		</item>
+		<item id="1211213">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1211426">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210505">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1211104">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211504">
+			<vote/>
+			<canton>fr</canton>
+		</item>
+		<item id="1210637">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210723">
+			<vote>no</vote>
+			<canton>gr</canton>
+		</item>
+		<item id="1211106">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210292">
+			<vote>no</vote>
+			<canton>fr</canton>
+		</item>
+		<item id="1211137">
+			<vote/>
+			<canton>ag</canton>
+		</item>
+		<item id="1210823">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210266">
+			<vote>no</vote>
+			<canton>fr</canton>
+		</item>
+		<item id="1211001">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210879">
+			<vote/>
+			<canton>ne</canton>
+		</item>
+		<item id="1210182">
+			<vote>no</vote>
+			<canton>ne</canton>
+		</item>
+		<item id="1211103">
+			<vote>no</vote>
+			<canton>gr</canton>
+		</item>
+		<item id="1210165">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211422">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210008">
+			<vote/>
+			<canton>ne</canton>
+		</item>
+		<item id="1210694">
+			<vote>no</vote>
+			<canton>fr</canton>
+		</item>
+		<item id="1211256">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211460">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210120">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210971">
+			<vote>yes</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210921">
+			<vote>no</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1210463">
+			<vote/>
+			<canton>bs</canton>
+		</item>
+		<item id="1210990">
+			<vote>yes</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210674">
+			<vote>no</vote>
+			<canton>bs</canton>
+		</item>
+		<item id="1211293">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211319">
+			<vote>no</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1211493">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210695">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210944">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210737">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1210361">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211476">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210793">
+			<vote/>
+			<canton>ur</canton>
+		</item>
+		<item id="1211110">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1211129">
+			<vote/>
+			<canton>ne</canton>
+		</item>
+		<item id="1211304">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210991">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211102">
+			<vote>no</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1210180">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1211375">
+			<vote>no</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1211335">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210521">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210259">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211012">
+			<vote>no</vote>
+			<canton>bs</canton>
+		</item>
+		<item id="1210088">
+			<vote>no</vote>
+			<canton>ne</canton>
+		</item>
+		<item id="1210323">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210868">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211046">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210523">
+			<vote>no</vote>
+			<canton>fr</canton>
+		</item>
+		<item id="1210078">
+			<vote>empty</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211230">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210401">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1211363">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210043">
+			<vote>yes</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210332">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210542">
+			<vote>no</vote>
+			<canton>ju</canton>
+		</item>
+		<item id="1211034">
+			<vote>no</vote>
+			<canton>gr</canton>
+		</item>
+		<item id="1210747">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210898">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210525">
+			<vote>no</vote>
+			<canton>zg</canton>
+		</item>
+		<item id="1210156">
+			<vote>empty</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1210699">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211348">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1210469">
+			<vote/>
+			<canton>lu</canton>
+		</item>
+		<item id="1210686">
+			<vote>yes</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1211262">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211032">
+			<vote>yes</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1210348">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210455">
+			<vote/>
+			<canton>vs</canton>
+		</item>
+		<item id="1211229">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211308">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210797">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210743">
+			<vote/>
+			<canton>ge</canton>
+		</item>
+		<item id="1210765">
+			<vote>yes</vote>
+			<canton>ju</canton>
+		</item>
+		<item id="1210946">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1210366">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210004">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210183">
+			<vote/>
+			<canton>ag</canton>
+		</item>
+		<item id="1210340">
+			<vote>no</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1211459">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1211499">
+			<vote>yes</vote>
+			<canton>fr</canton>
+		</item>
+		<item id="1210172">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211377">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210678">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210054">
+			<vote/>
+			<canton>ge</canton>
+		</item>
+		<item id="1211332">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210942">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210112">
+			<vote>yes</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210005">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210423">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210494">
+			<vote>yes</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1211423">
+			<vote/>
+			<canton>so</canton>
+		</item>
+		<item id="1211397">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1210905">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211263">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210598">
+			<vote/>
+			<canton>lu</canton>
+		</item>
+		<item id="1210726">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210600">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211296">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211195">
+			<vote>yes</vote>
+			<canton>bs</canton>
+		</item>
+		<item id="1210167">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210192">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210845">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210560">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1211000">
+			<vote/>
+			<canton>ne</canton>
+		</item>
+		<item id="1210537">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210841">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211167">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210061">
+			<vote>empty</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211061">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210538">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1210995">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210939">
+			<vote/>
+			<canton>ge</canton>
+		</item>
+		<item id="1211290">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1211163">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1211056">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210569">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1211187">
+			<vote/>
+			<canton>ag</canton>
+		</item>
+		<item id="1211181">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211043">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210544">
+			<vote>empty</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211488">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1211147">
+			<vote>no</vote>
+			<canton>ne</canton>
+		</item>
+		<item id="1210532">
+			<vote>yes</vote>
+			<canton>ju</canton>
+		</item>
+		<item id="1211098">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1211483">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1211029">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1211260">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1211166">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210128">
+			<vote>yes</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1211107">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1210748">
+			<vote>no</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1211240">
+			<vote/>
+			<canton>nw</canton>
+		</item>
+		<item id="1210174">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211289">
+			<vote>no</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1210536">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210648">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1210932">
+			<vote/>
+			<canton>sg</canton>
+		</item>
+		<item id="1211087">
+			<vote>no</vote>
+			<canton>gr</canton>
+		</item>
+		<item id="1210881">
+			<vote>no</vote>
+			<canton>gr</canton>
+		</item>
+		<item id="1210545">
+			<vote>no</vote>
+			<canton>ne</canton>
+		</item>
+		<item id="1211152">
+			<vote>yes</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210650">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210614">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210122">
+			<vote>no</vote>
+			<canton>fr</canton>
+		</item>
+		<item id="1211331">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210206">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210705">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211372">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1211323">
+			<vote>no</vote>
+			<canton>zg</canton>
+		</item>
+		<item id="1210633">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1211006">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1211413">
+			<vote>yes</vote>
+			<canton>sh</canton>
+		</item>
+		<item id="1211496">
+			<vote/>
+			<canton>tg</canton>
+		</item>
+		<item id="1210392">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210693">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1210549">
+			<vote>yes</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210052">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210024">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210965">
+			<vote/>
+			<canton>so</canton>
+		</item>
+		<item id="1210489">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210288">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1210247">
+			<vote/>
+			<canton>ag</canton>
+		</item>
+		<item id="1211221">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210592">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210683">
+			<vote>yes</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1211057">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211272">
+			<vote/>
+			<canton>so</canton>
+		</item>
+		<item id="1211008">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1211096">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211039">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1211417">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211346">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210829">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1211464">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210280">
+			<vote>yes</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1211007">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210987">
+			<vote/>
+			<canton>ge</canton>
+		</item>
+		<item id="1210125">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210116">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1210622">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211003">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210154">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211095">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1211042">
+			<vote>no</vote>
+			<canton>ne</canton>
+		</item>
+		<item id="1210625">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1210556">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210667">
+			<vote>yes</vote>
+			<canton>ow</canton>
+		</item>
+		<item id="1211058">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1211226">
+			<vote>no</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1211010">
+			<vote>no</vote>
+			<canton>nw</canton>
+		</item>
+		<item id="1211049">
+			<vote>no</vote>
+			<canton>ju</canton>
+		</item>
+		<item id="1210383">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1210275">
+			<vote>yes</vote>
+			<canton>ne</canton>
+		</item>
+		<item id="1211275">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210587">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1211151">
+			<vote/>
+			<canton>fr</canton>
+		</item>
+		<item id="1211205">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210814">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210636">
+			<vote/>
+			<canton>ag</canton>
+		</item>
+		<item id="1211051">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211381">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210137">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210817">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210561">
+			<vote>empty</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210676">
+			<vote/>
+			<canton>ne</canton>
+		</item>
+		<item id="1210119">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210919">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1210267">
+			<vote/>
+			<canton>so</canton>
+		</item>
+		<item id="1210547">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210302">
+			<vote/>
+			<canton>ge</canton>
+		</item>
+		<item id="1210400">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1210724">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210121">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210341">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210478">
+			<vote>yes</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1210815">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210986">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210563">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1210559">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210781">
+			<vote>no</vote>
+			<canton>fr</canton>
+		</item>
+		<item id="1210849">
+			<vote>yes</vote>
+			<canton>ne</canton>
+		</item>
+		<item id="1210272">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211099">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1210456">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1211158">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1211486">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1210381">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210098">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1210100">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1211019">
+			<vote>yes</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1210582">
+			<vote>no</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1211097">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210025">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211424">
+			<vote>yes</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1211326">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210464">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1210068">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210680">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210169">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211176">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1210619">
+			<vote/>
+			<canton>sg</canton>
+		</item>
+		<item id="1210599">
+			<vote>no</vote>
+			<canton>gr</canton>
+		</item>
+		<item id="1210590">
+			<vote/>
+			<canton>bs</canton>
+		</item>
+		<item id="1211165">
+			<vote/>
+			<canton>sh</canton>
+		</item>
+		<item id="1210126">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210396">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1210445">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211295">
+			<vote>no</vote>
+			<canton>gr</canton>
+		</item>
+		<item id="1210608">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210571">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211168">
+			<vote/>
+			<canton>ge</canton>
+		</item>
+		<item id="1211500">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211218">
+			<vote>no</vote>
+			<canton>sz</canton>
+		</item>
+		<item id="1211091">
+			<vote>no</vote>
+			<canton>bs</canton>
+		</item>
+		<item id="1211465">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211287">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210827">
+			<vote>yes</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210316">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1211062">
+			<vote>yes</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1210555">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210649">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210063">
+			<vote>no</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1210013">
+			<vote/>
+			<canton>ow</canton>
+		</item>
+		<item id="1210940">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211017">
+			<vote>empty</vote>
+			<canton>gr</canton>
+		</item>
+		<item id="1210735">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211220">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210234">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210688">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210370">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1211164">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210362">
+			<vote>no</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1210913">
+			<vote>yes</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1211219">
+			<vote>no</vote>
+			<canton>ow</canton>
+		</item>
+		<item id="1210764">
+			<vote/>
+			<canton>ne</canton>
+		</item>
+		<item id="1210188">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210501">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210759">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210090">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211214">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1211479">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210828">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210006">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210964">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210195">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210033">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211243">
+			<vote>empty</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210893">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210948">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1210485">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1211313">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210966">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1211014">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211250">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210576">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211285">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210398">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1211100">
+			<vote>no</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1211002">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210858">
+			<vote>yes</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1211490">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210518">
+			<vote/>
+			<canton>bl</canton>
+		</item>
+		<item id="1210178">
+			<vote>empty</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210634">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1210352">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1210701">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211491">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1210268">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1210375">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210374">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1210856">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210312">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210181">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210897">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211191">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1211126">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210260">
+			<vote>no</vote>
+			<canton>fr</canton>
+		</item>
+		<item id="1210041">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210821">
+			<vote/>
+			<canton>vs</canton>
+		</item>
+		<item id="1211064">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210888">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210750">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210186">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1211078">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211278">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211237">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210669">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210472">
+			<vote>yes</vote>
+			<canton>sz</canton>
+		</item>
+		<item id="1211120">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1211089">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210806">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1211470">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1211309">
+			<vote>yes</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1210512">
+			<vote>yes</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1211047">
+			<vote/>
+			<canton>ge</canton>
+		</item>
+		<item id="1211305">
+			<vote>yes</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1211419">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210825">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1211447">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210048">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211371">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1210388">
+			<vote>no</vote>
+			<canton>gr</canton>
+		</item>
+		<item id="1210867">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1211306">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210890">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1210484">
+			<vote>yes</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1211127">
+			<vote/>
+			<canton>ur</canton>
+		</item>
+		<item id="1211140">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210085">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210514">
+			<vote>yes</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210834">
+			<vote>empty</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211362">
+			<vote>empty</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210190">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1210458">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1210170">
+			<vote/>
+			<canton>tg</canton>
+		</item>
+		<item id="1210452">
+			<vote/>
+			<canton>nw</canton>
+		</item>
+		<item id="1210908">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210225">
+			<vote>yes</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1211156">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1210659">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210539">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210558">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210988">
+			<vote>yes</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1211135">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1211352">
+			<vote>no</vote>
+			<canton>fr</canton>
+		</item>
+		<item id="1211190">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210382">
+			<vote/>
+			<canton>ag</canton>
+		</item>
+		<item id="1211350">
+			<vote/>
+			<canton>ag</canton>
+		</item>
+		<item id="1210164">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210319">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211041">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210276">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210197">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210679">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210109">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210218">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210451">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210640">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210317">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210985">
+			<vote/>
+			<canton>sg</canton>
+		</item>
+		<item id="1210597">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211021">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210612">
+			<vote>no</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1210551">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211217">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1211162">
+			<vote>yes</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1211134">
+			<vote/>
+			<canton>ag</canton>
+		</item>
+		<item id="1210058">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210212">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210209">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210937">
+			<vote>yes</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1211307">
+			<vote>yes</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1210414">
+			<vote/>
+			<canton>sg</canton>
+		</item>
+		<item id="1210142">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1211497">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210399">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1210205">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210420">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1211227">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211194">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210453">
+			<vote>no</vote>
+			<canton>ju</canton>
+		</item>
+		<item id="1210785">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211159">
+			<vote/>
+			<canton>gr</canton>
+		</item>
+		<item id="1210912">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210229">
+			<vote>no</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1210179">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211004">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210305">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211393">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1211105">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210949">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1210811">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210493">
+			<vote>no</vote>
+			<canton>fr</canton>
+		</item>
+		<item id="1210434">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211082">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210404">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210609">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211241">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210003">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1210486">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210257">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210770">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1211210">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210157">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211502">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210941">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1210989">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1211310">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210746">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210718">
+			<vote>yes</vote>
+			<canton>ju</canton>
+		</item>
+		<item id="1211133">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211142">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210602">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210690">
+			<vote/>
+			<canton>so</canton>
+		</item>
+		<item id="1210017">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210029">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210217">
+			<vote>yes</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1211314">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210269">
+			<vote/>
+			<canton>ge</canton>
+		</item>
+		<item id="1211462">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1211403">
+			<vote>no</vote>
+			<canton>fr</canton>
+		</item>
+		<item id="1210263">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210780">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210848">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210833">
+			<vote/>
+			<canton>ur</canton>
+		</item>
+		<item id="1210645">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1211160">
+			<vote>no</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1210012">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1210802">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1211442">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210744">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1210355">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211239">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211475">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211171">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210506">
+			<vote>no</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1210769">
+			<vote>no</vote>
+			<canton>sz</canton>
+		</item>
+		<item id="1210961">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1211173">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210706">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210223">
+			<vote>no</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1211367">
+			<vote>no</vote>
+			<canton>sz</canton>
+		</item>
+		<item id="1210318">
+			<vote/>
+			<canton>ge</canton>
+		</item>
+		<item id="1211463">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1211258">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210922">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210438">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210036">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210311">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210733">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211018">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210228">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210534">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210984">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210850">
+			<vote>yes</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210721">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210107">
+			<vote>no</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1211270">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211404">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1210031">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210294">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210313">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210208">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210427">
+			<vote/>
+			<canton>so</canton>
+		</item>
+		<item id="1210526">
+			<vote/>
+			<canton>lu</canton>
+		</item>
+		<item id="1211286">
+			<vote>yes</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1210819">
+			<vote>no</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1210246">
+			<vote>no</vote>
+			<canton>bs</canton>
+		</item>
+		<item id="1211512">
+			<vote>empty</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210094">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210108">
+			<vote>no</vote>
+			<canton>sz</canton>
+		</item>
+		<item id="1210663">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210369">
+			<vote>yes</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210712">
+			<vote>yes</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1210779">
+			<vote>no</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1210162">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210871">
+			<vote>no</vote>
+			<canton>gr</canton>
+		</item>
+		<item id="1210143">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210468">
+			<vote>no</vote>
+			<canton>ne</canton>
+		</item>
+		<item id="1210788">
+			<vote>yes</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210928">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1211020">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210803">
+			<vote>no</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1210813">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1211511">
+			<vote>no</vote>
+			<canton>ne</canton>
+		</item>
+		<item id="1211199">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210818">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1211246">
+			<vote>yes</vote>
+			<canton>zg</canton>
+		</item>
+		<item id="1210853">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210238">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210760">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210099">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211276">
+			<vote>no</vote>
+			<canton>ow</canton>
+		</item>
+		<item id="1211434">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210239">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210161">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210762">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210901">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210240">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211257">
+			<vote/>
+			<canton>sz</canton>
+		</item>
+		<item id="1210613">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211406">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210087">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210794">
+			<vote/>
+			<canton>ne</canton>
+		</item>
+		<item id="1210407">
+			<vote/>
+			<canton>ge</canton>
+		</item>
+		<item id="1211169">
+			<vote>yes</vote>
+			<canton>bs</canton>
+		</item>
+		<item id="1210691">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210328">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1211203">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210651">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210243">
+			<vote>no</vote>
+			<canton>fr</canton>
+		</item>
+		<item id="1210593">
+			<vote>no</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1211454">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1211202">
+			<vote>yes</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1210873">
+			<vote/>
+			<canton>lu</canton>
+		</item>
+		<item id="1210931">
+			<vote/>
+			<canton>sg</canton>
+		</item>
+		<item id="1211301">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211154">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210055">
+			<vote/>
+			<canton>vs</canton>
+		</item>
+		<item id="1210300">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210533">
+			<vote>yes</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210738">
+			<vote/>
+			<canton>ge</canton>
+		</item>
+		<item id="1210093">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211268">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1211238">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211255">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210176">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210009">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210258">
+			<vote/>
+			<canton>fr</canton>
+		</item>
+		<item id="1210184">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1211418">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211477">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1211420">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1210524">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210915">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210405">
+			<vote/>
+			<canton>fr</canton>
+		</item>
+		<item id="1211457">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210081">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210254">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210671">
+			<vote/>
+			<canton>ge</canton>
+		</item>
+		<item id="1210872">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211513">
+			<vote>no</vote>
+			<canton>ai</canton>
+		</item>
+		<item id="1210018">
+			<vote/>
+			<canton>sg</canton>
+		</item>
+		<item id="1211484">
+			<vote/>
+			<canton>fr</canton>
+		</item>
+		<item id="1210862">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211485">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210075">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1210306">
+			<vote>yes</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210410">
+			<vote>no</vote>
+			<canton>gr</canton>
+		</item>
+		<item id="1210201">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210709">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1210880">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1210861">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211182">
+			<vote>no</vote>
+			<canton>zg</canton>
+		</item>
+		<item id="1211153">
+			<vote/>
+			<canton>lu</canton>
+		</item>
+		<item id="1211281">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211035">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210117">
+			<vote>no</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1211438">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211114">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210617">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210641">
+			<vote>yes</vote>
+			<canton>nw</canton>
+		</item>
+		<item id="1210675">
+			<vote>no</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1210016">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210624">
+			<vote>no</vote>
+			<canton>zg</canton>
+		</item>
+		<item id="1210773">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210973">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1211174">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1210553">
+			<vote/>
+			<canton>tg</canton>
+		</item>
+		<item id="1211242">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210147">
+			<vote>yes</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1211322">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1211253">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210022">
+			<vote/>
+			<canton>ow</canton>
+		</item>
+		<item id="1210580">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210757">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210377">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210578">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210044">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1211027">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210151">
+			<vote>no</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1210215">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1211387">
+			<vote/>
+			<canton>ag</canton>
+		</item>
+		<item id="1211384">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210758">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211487">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1210816">
+			<vote>yes</vote>
+			<canton>fr</canton>
+		</item>
+		<item id="1211271">
+			<vote>no</vote>
+			<canton>sz</canton>
+		</item>
+		<item id="1210356">
+			<vote>yes</vote>
+			<canton>bs</canton>
+		</item>
+		<item id="1211143">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1210756">
+			<vote/>
+			<canton>ar</canton>
+		</item>
+		<item id="1211334">
+			<vote/>
+			<canton>ge</canton>
+		</item>
+		<item id="1210297">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210749">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210786">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211443">
+			<vote/>
+			<canton>lu</canton>
+		</item>
+		<item id="1210483">
+			<vote>yes</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1210955">
+			<vote>no</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1210981">
+			<vote>yes</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1210761">
+			<vote>empty</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210118">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211009">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210283">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210160">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210869">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1210444">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210772">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211324">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210719">
+			<vote>empty</vote>
+			<canton>ju</canton>
+		</item>
+		<item id="1210406">
+			<vote>yes</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1210413">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1211359">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210548">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210049">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1210904">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211448">
+			<vote>empty</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211415">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210854">
+			<vote/>
+			<canton>lu</canton>
+		</item>
+		<item id="1210360">
+			<vote>yes</vote>
+			<canton>gl</canton>
+		</item>
+		<item id="1210159">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211196">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210491">
+			<vote>no</vote>
+			<canton>sh</canton>
+		</item>
+		<item id="1210502">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210198">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210023">
+			<vote/>
+			<canton>ne</canton>
+		</item>
+		<item id="1210917">
+			<vote>no</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1210199">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1211298">
+			<vote/>
+			<canton>ge</canton>
+		</item>
+		<item id="1210277">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1211053">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1210265">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210278">
+			<vote>no</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1210273">
+			<vote>no</vote>
+			<canton>gr</canton>
+		</item>
+		<item id="1210616">
+			<vote/>
+			<canton>ne</canton>
+		</item>
+		<item id="1211036">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1211231">
+			<vote/>
+			<canton>so</canton>
+		</item>
+		<item id="1210279">
+			<vote/>
+			<canton>gr</canton>
+		</item>
+		<item id="1210714">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210417">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210171">
+			<vote>no</vote>
+			<canton>gr</canton>
+		</item>
+		<item id="1211302">
+			<vote>empty</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210040">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1211408">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1210189">
+			<vote>yes</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210621">
+			<vote/>
+			<canton>gr</canton>
+		</item>
+		<item id="1210626">
+			<vote>yes</vote>
+			<canton>bs</canton>
+		</item>
+		<item id="1211379">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1210892">
+			<vote>no</vote>
+			<canton>gr</canton>
+		</item>
+		<item id="1210974">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1211503">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210830">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1211267">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211028">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210668">
+			<vote/>
+			<canton>ag</canton>
+		</item>
+		<item id="1210962">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1211469">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210357">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1210708">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210530">
+			<vote>yes</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1211343">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1211385">
+			<vote>no</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1210875">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1210141">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1211265">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211338">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1211428">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210015">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1211506">
+			<vote>no</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1210287">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210876">
+			<vote>no</vote>
+			<canton>ne</canton>
+		</item>
+		<item id="1210224">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210805">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211186">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1211482">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210076">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210914">
+			<vote>no</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1210934">
+			<vote/>
+			<canton>sg</canton>
+		</item>
+		<item id="1210777">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210449">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1211063">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210290">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210173">
+			<vote>yes</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1210662">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210291">
+			<vote>no</vote>
+			<canton>ne</canton>
+		</item>
+		<item id="1210918">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211065">
+			<vote/>
+			<canton>sg</canton>
+		</item>
+		<item id="1210139">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1211368">
+			<vote/>
+			<canton>vs</canton>
+		</item>
+		<item id="1210778">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211125">
+			<vote>yes</vote>
+			<canton>gr</canton>
+		</item>
+		<item id="1210138">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210812">
+			<vote>no</vote>
+			<canton>fr</canton>
+		</item>
+		<item id="1211416">
+			<vote>yes</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210026">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210035">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210656">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210837">
+			<vote/>
+			<canton>ge</canton>
+		</item>
+		<item id="1210568">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210782">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1210883">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210632">
+			<vote>yes</vote>
+			<canton>sh</canton>
+		</item>
+		<item id="1210957">
+			<vote>yes</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1210020">
+			<vote/>
+			<canton>tg</canton>
+		</item>
+		<item id="1210665">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210376">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210810">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1210607">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1211090">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210298">
+			<vote>yes</vote>
+			<canton>ne</canton>
+		</item>
+		<item id="1210952">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1210344">
+			<vote/>
+			<canton>bs</canton>
+		</item>
+		<item id="1211157">
+			<vote/>
+			<canton>sg</canton>
+		</item>
+		<item id="1211236">
+			<vote>yes</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1210051">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210953">
+			<vote>yes</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1211216">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210021">
+			<vote/>
+			<canton>bl</canton>
+		</item>
+		<item id="1210245">
+			<vote>no</vote>
+			<canton>ju</canton>
+		</item>
+		<item id="1211507">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210089">
+			<vote/>
+			<canton>ge</canton>
+		</item>
+		<item id="1211005">
+			<vote>no</vote>
+			<canton>fr</canton>
+		</item>
+		<item id="1211345">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211481">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1210863">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210338">
+			<vote>no</vote>
+			<canton>zg</canton>
+		</item>
+		<item id="1211198">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210783">
+			<vote>no</vote>
+			<canton>fr</canton>
+		</item>
+		<item id="1211366">
+			<vote/>
+			<canton>ar</canton>
+		</item>
+		<item id="1210207">
+			<vote>yes</vote>
+			<canton>bs</canton>
+		</item>
+		<item id="1210466">
+			<vote/>
+			<canton>lu</canton>
+		</item>
+		<item id="1211022">
+			<vote/>
+			<canton>ne</canton>
+		</item>
+		<item id="1210037">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211311">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211179">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211292">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210412">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210943">
+			<vote>no</vote>
+			<canton>gr</canton>
+		</item>
+		<item id="1210994">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211060">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211410">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211175">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210798">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1211015">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1210605">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211466">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1211138">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210970">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1211030">
+			<vote>yes</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1210460">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1210431">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210516">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1211501">
+			<vote/>
+			<canton>gr</canton>
+		</item>
+		<item id="1211358">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1211282">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210091">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210963">
+			<vote>yes</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210638">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210767">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1211376">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210951">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211383">
+			<vote>no</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1210301">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1210282">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1211431">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1211472">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210135">
+			<vote>no</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1211269">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210715">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210594">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210882">
+			<vote/>
+			<canton>ag</canton>
+		</item>
+		<item id="1211328">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1210415">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1211471">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1210111">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211421">
+			<vote>yes</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1211172">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210661">
+			<vote>no</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1210497">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1210175">
+			<vote>yes</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1210728">
+			<vote/>
+			<canton>ne</canton>
+		</item>
+		<item id="1211139">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210086">
+			<vote>no</vote>
+			<canton>sz</canton>
+		</item>
+		<item id="1211161">
+			<vote>empty</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210855">
+			<vote>yes</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1210620">
+			<vote>empty</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210096">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1210653">
+			<vote>no</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1211023">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210203">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1210442">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1210395">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1210092">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1211336">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1210729">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211117">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211432">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1210148">
+			<vote>no</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1210261">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210603">
+			<vote/>
+			<canton>bs</canton>
+		</item>
+		<item id="1211212">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1211349">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210809">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210543">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1211122">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1211075">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210333">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210930">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210933">
+			<vote/>
+			<canton>ag</canton>
+		</item>
+		<item id="1211037">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210394">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211222">
+			<vote/>
+			<canton>sg</canton>
+		</item>
+		<item id="1211452">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210589">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210711">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210069">
+			<vote>yes</vote>
+			<canton>bs</canton>
+		</item>
+		<item id="1211038">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1211180">
+			<vote>no</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1210114">
+			<vote>yes</vote>
+			<canton>zg</canton>
+		</item>
+		<item id="1210411">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210906">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211456">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210689">
+			<vote/>
+			<canton>ge</canton>
+		</item>
+		<item id="1211069">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210194">
+			<vote>yes</vote>
+			<canton>sz</canton>
+		</item>
+		<item id="1211437">
+			<vote/>
+			<canton>fr</canton>
+		</item>
+		<item id="1210574">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210390">
+			<vote>yes</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1210419">
+			<vote/>
+			<canton>bl</canton>
+		</item>
+		<item id="1210226">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210389">
+			<vote>yes</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210354">
+			<vote/>
+			<canton>gr</canton>
+		</item>
+		<item id="1211192">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211342">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1210320">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1210511">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211435">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211478">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211436">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210730">
+			<vote/>
+			<canton>lu</canton>
+		</item>
+		<item id="1210540">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211155">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210327">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210080">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210284">
+			<vote/>
+			<canton>sg</canton>
+		</item>
+		<item id="1211370">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210385">
+			<vote>empty</vote>
+			<canton>ju</canton>
+		</item>
+		<item id="1211076">
+			<vote/>
+			<canton>gl</canton>
+		</item>
+		<item id="1210222">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210079">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210077">
+			<vote>yes</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1211312">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211025">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210285">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1211234">
+			<vote/>
+			<canton>ag</canton>
+		</item>
+		<item id="1211052">
+			<vote>yes</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1210938">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210771">
+			<vote/>
+			<canton>ag</canton>
+		</item>
+		<item id="1210230">
+			<vote>no</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1211054">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210487">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1210610">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210722">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1210884">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210925">
+			<vote>no</vote>
+			<canton>ow</canton>
+		</item>
+		<item id="1211473">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210103">
+			<vote>empty</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210433">
+			<vote>no</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1210074">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210379">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210739">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1210902">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211136">
+			<vote/>
+			<canton>vs</canton>
+		</item>
+		<item id="1210446">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210581">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1211283">
+			<vote/>
+			<canton>bl</canton>
+		</item>
+		<item id="1210073">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1210924">
+			<vote>no</vote>
+			<canton>ow</canton>
+		</item>
+		<item id="1211109">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210140">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1211495">
+			<vote/>
+			<canton>so</canton>
+		</item>
+		<item id="1210131">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1210583">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210014">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1211474">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210070">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210322">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210216">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210097">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1211291">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210373">
+			<vote/>
+			<canton>fr</canton>
+		</item>
+		<item id="1211261">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210606">
+			<vote/>
+			<canton>ge</canton>
+		</item>
+		<item id="1210577">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1211249">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210685">
+			<vote>no</vote>
+			<canton>fr</canton>
+		</item>
+		<item id="1210011">
+			<vote>no</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1210046">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1211402">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210945">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211016">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1211433">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210520">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210977">
+			<vote/>
+			<canton>so</canton>
+		</item>
+		<item id="1211388">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1211508">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210586">
+			<vote>no</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1211033">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1211347">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1210133">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1211386">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210550">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1210252">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1211333">
+			<vote/>
+			<canton>lu</canton>
+		</item>
+		<item id="1210824">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1211351">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210510">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1211248">
+			<vote/>
+			<canton>zg</canton>
+		</item>
+		<item id="1210859">
+			<vote>yes</vote>
+			<canton>bs</canton>
+		</item>
+		<item id="1210447">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210596">
+			<vote/>
+			<canton>sg</canton>
+		</item>
+		<item id="1211150">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210916">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210299">
+			<vote>no</vote>
+			<canton>sz</canton>
+		</item>
+		<item id="1210993">
+			<vote>yes</vote>
+			<canton>gr</canton>
+		</item>
+		<item id="1210363">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210124">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210144">
+			<vote>no</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1210358">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1210304">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210255">
+			<vote/>
+			<canton>bs</canton>
+		</item>
+		<item id="1210784">
+			<vote/>
+			<canton>fr</canton>
+		</item>
+		<item id="1210664">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1211297">
+			<vote/>
+			<canton>ur</canton>
+		</item>
+		<item id="1210337">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210064">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211177">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210168">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210202">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210736">
+			<vote>yes</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1210155">
+			<vote>yes</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210310">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1210326">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1211399">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211170">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210220">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210391">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211141">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210490">
+			<vote>yes</vote>
+			<canton>fr</canton>
+		</item>
+		<item id="1210110">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1211315">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211119">
+			<vote>no</vote>
+			<canton>ne</canton>
+		</item>
+		<item id="1210979">
+			<vote>yes</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1211130">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210123">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210066">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1210887">
+			<vote>yes</vote>
+			<canton>nw</canton>
+		</item>
+		<item id="1210102">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211146">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210698">
+			<vote/>
+			<canton>so</canton>
+		</item>
+		<item id="1210969">
+			<vote/>
+			<canton>lu</canton>
+		</item>
+		<item id="1210146">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1211149">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1211101">
+			<vote>no</vote>
+			<canton>ur</canton>
+		</item>
+		<item id="1211510">
+			<vote>no</vote>
+			<canton>ar</canton>
+		</item>
+		<item id="1210655">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211330">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210421">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1210808">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211409">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210083">
+			<vote/>
+			<canton>bl</canton>
+		</item>
+		<item id="1210359">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210435">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210166">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210742">
+			<vote>empty</vote>
+			<canton>gr</canton>
+		</item>
+		<item id="1211084">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210204">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210889">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211094">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1210801">
+			<vote>yes</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1210566">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210286">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210461">
+			<vote/>
+			<canton>ge</canton>
+		</item>
+		<item id="1210248">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210967">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210315">
+			<vote/>
+			<canton>tg</canton>
+		</item>
+		<item id="1210430">
+			<vote>empty</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210570">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210185">
+			<vote>no</vote>
+			<canton>ju</canton>
+		</item>
+		<item id="1211013">
+			<vote>yes</vote>
+			<canton>zg</canton>
+		</item>
+		<item id="1210927">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1211233">
+			<vote>no</vote>
+			<canton>fr</canton>
+		</item>
+		<item id="1210132">
+			<vote>no</vote>
+			<canton>sh</canton>
+		</item>
+		<item id="1210042">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210281">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210909">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211266">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210095">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210983">
+			<vote>yes</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1211325">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210615">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210416">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211059">
+			<vote/>
+			<canton>bl</canton>
+		</item>
+		<item id="1211123">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1210894">
+			<vote/>
+			<canton>fr</canton>
+		</item>
+		<item id="1210321">
+			<vote>no</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1210440">
+			<vote/>
+			<canton>sz</canton>
+		</item>
+		<item id="1211071">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210895">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210515">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210233">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211505">
+			<vote>no</vote>
+			<canton>fr</canton>
+		</item>
+		<item id="1210687">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1211344">
+			<vote>empty</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210751">
+			<vote>no</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1210047">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210846">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211204">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211144">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211494">
+			<vote>no</vote>
+			<canton>zg</canton>
+		</item>
+		<item id="1211215">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210896">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210325">
+			<vote>yes</vote>
+			<canton>fr</canton>
+		</item>
+		<item id="1211277">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210517">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210177">
+			<vote>empty</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210475">
+			<vote>no</vote>
+			<canton>fr</canton>
+		</item>
+		<item id="1211200">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1211081">
+			<vote>no</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1211414">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210418">
+			<vote/>
+			<canton>sh</canton>
+		</item>
+		<item id="1211111">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210050">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210129">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210211">
+			<vote>yes</vote>
+			<canton>gr</canton>
+		</item>
+		<item id="1210936">
+			<vote>empty</vote>
+			<canton>fr</canton>
+		</item>
+		<item id="1211284">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1211357">
+			<vote>no</vote>
+			<canton>vs</canton>
+		</item>
+		<item id="1210588">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211178">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210457">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1210763">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210303">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210734">
+			<vote/>
+			<canton>ag</canton>
+		</item>
+		<item id="1211450">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210795">
+			<vote>no</vote>
+			<canton>bs</canton>
+		</item>
+		<item id="1210393">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1211083">
+			<vote/>
+			<canton>ag</canton>
+		</item>
+		<item id="1210367">
+			<vote>yes</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1210308">
+			<vote/>
+			<canton>bl</canton>
+		</item>
+		<item id="1210334">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210067">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1210775">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211077">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1210027">
+			<vote>yes</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210335">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210832">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210113">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210891">
+			<vote/>
+			<canton>ag</canton>
+		</item>
+		<item id="1210926">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210295">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210384">
+			<vote>no</vote>
+			<canton>bl</canton>
+		</item>
+		<item id="1210531">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211184">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1211341">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1211259">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210910">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211356">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210231">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210978">
+			<vote/>
+			<canton>so</canton>
+		</item>
+		<item id="1210059">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1211067">
+			<vote>no</vote>
+			<canton>gr</canton>
+		</item>
+		<item id="1211389">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1211509">
+			<vote/>
+			<canton>be</canton>
+		</item>
+		<item id="1210339">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210528">
+			<vote/>
+			<canton>bs</canton>
+		</item>
+		<item id="1210774">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211400">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210629">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210684">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210716">
+			<vote>no</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1211251">
+			<vote>yes</vote>
+			<canton>sh</canton>
+		</item>
+		<item id="1211244">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210019">
+			<vote/>
+			<canton>tg</canton>
+		</item>
+		<item id="1211092">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211445">
+			<vote>yes</vote>
+			<canton>tg</canton>
+		</item>
+		<item id="1210776">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211353">
+			<vote>yes</vote>
+			<canton>fr</canton>
+		</item>
+		<item id="1210840">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1210935">
+			<vote>yes</vote>
+			<canton>ju</canton>
+		</item>
+		<item id="1210331">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1211201">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210972">
+			<vote>no</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1211132">
+			<vote>no</vote>
+			<canton>sz</canton>
+		</item>
+		<item id="1210870">
+			<vote>no</vote>
+			<canton>fr</canton>
+		</item>
+		<item id="1210324">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211318">
+			<vote>no</vote>
+			<canton>gr</canton>
+		</item>
+		<item id="1210057">
+			<vote/>
+			<canton>ne</canton>
+		</item>
+		<item id="1211121">
+			<vote/>
+			<canton>ar</canton>
+		</item>
+		<item id="1210604">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210329">
+			<vote>yes</vote>
+			<canton>ne</canton>
+		</item>
+		<item id="1210200">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210682">
+			<vote/>
+			<canton>ne</canton>
+		</item>
+		<item id="1210425">
+			<vote/>
+			<canton>fr</canton>
+		</item>
+		<item id="1210378">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1211288">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210755">
+			<vote>no</vote>
+			<canton>so</canton>
+		</item>
+		<item id="1210522">
+			<vote/>
+			<canton>ne</canton>
+		</item>
+		<item id="1210387">
+			<vote>yes</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1211193">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210106">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210386">
+			<vote>no</vote>
+			<canton>zg</canton>
+		</item>
+		<item id="1210527">
+			<vote>yes</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210792">
+			<vote>no</vote>
+			<canton>lu</canton>
+		</item>
+		<item id="1211354">
+			<vote/>
+			<canton>zh</canton>
+		</item>
+		<item id="1210479">
+			<vote/>
+			<canton>vs</canton>
+		</item>
+		<item id="1211224">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210213">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210351">
+			<vote>yes</vote>
+			<canton>gr</canton>
+		</item>
+		<item id="1211458">
+			<vote/>
+			<canton>ti</canton>
+		</item>
+		<item id="1210496">
+			<vote>no</vote>
+			<canton>ag</canton>
+		</item>
+		<item id="1210353">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1210034">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1211446">
+			<vote>no</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210409">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1211108">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210658">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210677">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210700">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+		<item id="1210836">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210210">
+			<vote>yes</vote>
+			<canton>zh</canton>
+		</item>
+		<item id="1210573">
+			<vote>no</vote>
+			<canton>vd</canton>
+		</item>
+		<item id="1210996">
+			<vote>yes</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210105">
+			<vote>yes</vote>
+			<canton>ge</canton>
+		</item>
+		<item id="1210060">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1210426">
+			<vote>no</vote>
+			<canton>ti</canton>
+		</item>
+		<item id="1210839">
+			<vote>no</vote>
+			<canton>be</canton>
+		</item>
+		<item id="1211254">
+			<vote>yes</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1210371">
+			<vote>no</vote>
+			<canton>sg</canton>
+		</item>
+		<item id="1211124">
+			<vote/>
+			<canton>lu</canton>
+		</item>
+		<item id="1211364">
+			<vote/>
+			<canton>vd</canton>
+		</item>
+	</items>
+</data>
